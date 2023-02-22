@@ -1,0 +1,42 @@
+button {
+    padding: 0.5rem 1rem ;
+    border: 0;
+
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    border-radius: 5px;
+
+    width: 100px;
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shipmentRegisterContainer {
+    padding: 1rem;
+}
+
+.shipmentRegisterContainer h1 {
+    padding: 1rem;
+}
+
+.shipmentRegisterContainer button {
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+.shipmentItem {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+}
+
+.shipmentItem label {
+    padding: 0.5rem;
+}
+
